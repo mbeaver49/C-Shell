@@ -1,0 +1,1 @@
+-rwxrwxrwx 1 manvel manvel 0 Dec 12 15:25 input.c
