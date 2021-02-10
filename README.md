@@ -20,9 +20,7 @@ gcc shell.c -o shell
 ```bash
 cd ..
 pwd
-cat file1.txt
-...
-
+cat file1.txt > file2.txt
 ```
 
 ## Contributing
