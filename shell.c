@@ -3,7 +3,7 @@
  * display prompt, get input from the user, execute commands (exit, cd),
  * execute programs, redirect input/output, and repeat.
  *
- * author: Manvel Beaver and Dr. Heidie Gurung
+ * author: Manvel Beaver and Dr. Heidi Gurung
  */
 
 #include <stdio.h>
